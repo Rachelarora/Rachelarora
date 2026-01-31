@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Rachel✨</h1>
 <h3 align="center">Final year BCA Student and an AI ML Enthusiast</h3>
 
-- 🔭 I’m currently working on [AI Powered Employee Salary Prediction Web App](https://github.com/Rachelarora/Employee-Salary-Prediction-Rachel-Arora.git)
+- 🔭 I’m currently working on new projects.
 
-- 🌱 I’m currently learning **AI ML** and interested in **CyberSecurity**
+- 🌱 I’m learning **AI ML and Data Analytics** and interested to explore **CyberSecurity**
 
-- 📫 Contact me here **rachelarora09@gmail.com**
+- 📫 Contact me at **rachelarora09@gmail.com**
 
 - ⚡ Fun fact **I love books and kdrama's as much as debugging codes**
 
