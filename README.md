@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rachel✨</h1>
 <h3 align="center">Final year BCA Student and an AI ML Enthusiast</h3>
 
-- 🔭 I’m currently working on new projects.
+- 🔭 I’m currently working on Agentic AI Resume based Career Recommendation system 
 
 - 🌱 I’m learning **AI ML and Data Analytics** and interested to explore **CyberSecurity**
 
